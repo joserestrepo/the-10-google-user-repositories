@@ -17,18 +17,20 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto de Node.js:
 
 3. **Instalar Dependencias:**
 
-Asegúrate de tener Node.js y npm instalados en tu sistema. Luego, ejecuta el siguiente comando para instalar las dependencias del proyecto:
+    Asegúrate de tener Node.js y npm instalados en tu sistema. Luego, ejecuta el siguiente comando para instalar las dependencias del proyecto:
 
-`npm install`
-
+    ```bash
+    npm install
+    ```
 4. **Ejecutar el Proyecto:**
 
-Una vez que las dependencias estén instaladas, puedes iniciar el proyecto con el siguiente comando:
+    Una vez que las dependencias estén instaladas, puedes iniciar el proyecto con el siguiente comando:
 
-`npm start`
-
-Esto iniciará la aplicación y podrás acceder a ella desde tu navegador.
+    ```bash
+    npm start
+    ```
+    Esto iniciará la aplicación y podrás acceder a ella desde tu navegador.
 
 5.  **Acceder a la Aplicación:**
 
-Abre tu navegador web y visita http://localhost:3100 para ver la aplicación en funcionamiento.
+    Abre tu navegador web y visita http://localhost:3100 para ver la aplicación en funcionamiento.
