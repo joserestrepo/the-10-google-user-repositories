@@ -17,7 +17,7 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto de Node.js:
 
 3. **Instalar Dependencias:**
 
-    Asegúrate de tener Node.js y npm instalados en tu sistema. Luego, ejecuta el siguiente comando para instalar las dependencias del proyecto:
+    Asegúrate de tener Node.js (v21.4.0) y npm instalados en tu sistema. Luego, ejecuta el siguiente comando para instalar las dependencias del proyecto:
 
     ```bash
     npm install
